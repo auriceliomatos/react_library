@@ -3,6 +3,7 @@
     padding: 16px;
     box-shadow: 1px 2px 6px #333;
     border-radius: 16px;
+    margin-top: 10px;
 }
 
 .post-image {
@@ -16,10 +17,6 @@
     font-size: 14px;
     line-height: 22px;
     margin-bottom: 24px;
-}
-
-.post-comments {
-    
 }
 
 .post-comment {
